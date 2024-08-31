@@ -1,18 +1,18 @@
 
 # Democratizar la tecnologia incluyendo
 
-
+https://v0.dev/chat/b/5GQLASt
 
 ![img/creerparaver.png](/img/creerparaver.png)
 
-### Presentacion de caso
+## Presentación del caso
 
-Dar accesibilidad al contenido a personas personas no videntes, o capaces de interpretar braile, a traves de un dispositivo capaz de refrescarse como un cartel led, capaz de complementar la experiencia con cada usuario de forma particular, manteniendo la privacidad de la lectura con respecto a la posibilidad de la comunicacion mediante voz
+Facilitar el acceso al contenido para personas no videntes o que puedan interpretar braille mediante un dispositivo capaz de actualizarse como un cartel LED. Este dispositivo complementará la experiencia de cada usuario de manera personalizada, manteniendo la privacidad de la lectura sin recurrir a la comunicación por voz.
 
-### Objetivo primordial
+## Objetivo primordial
 
-Democratizar la accesibilidad al contenido, inclusión y mejorar la calidad de vida para esta problematica.
+Democratizar el acceso al contenido, fomentar la inclusión y mejorar la calidad de vida para las personas con discapacidad visual.
 
-la implementación de una solución minima, requiere de investigación, pruebas, diseño y constante aprendizaje para brindar mejores herramientas  realmente accibles.
+La implementación de una solución mínima requiere investigación, pruebas, diseño y un aprendizaje continuo para desarrollar herramientas realmente accesibles y eficaces.
 
 ![/img/4564691694368553163.png](/img/4564691694368553163.png)
