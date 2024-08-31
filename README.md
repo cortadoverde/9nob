@@ -1,7 +1,6 @@
-# 9nob
-Democratizar la tecnologia incluyendo
 
-# !bIA
+# Democratizar la tecnologia incluyendo
+
 
 
 ![img/creerparaver.png](/img/creerparaver.png)
